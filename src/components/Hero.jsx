@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { FiArrowDown, FiGithub, FiLinkedin, FiMail } from "react-icons/fi";
 import { profile } from "../data/resumeData";
-import VoiceIntro from "./VoiceIntro";
 import "./Hero.css";
 
 const ROLES = [
@@ -139,7 +138,6 @@ export default function Hero() {
           <a href={profile.github} target="_blank" rel="noopener noreferrer" aria-label="GitHub" data-cursor-hover>
             <FiGithub />
           </a>
-          <VoiceIntro />
         </motion.div>
       </div>
 

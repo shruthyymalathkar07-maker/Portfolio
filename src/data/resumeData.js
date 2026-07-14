@@ -126,7 +126,6 @@ export const projects = [
       "Built with a modern React + TypeScript stack",
     ],
     github: "https://github.com/shruthyymalathkar07-maker/tresora-event-planner",
-    demo: "https://tresora-event-planner-roan.vercel.app/",
   },
   {
     title: "Banana Leaf Disease Detection",

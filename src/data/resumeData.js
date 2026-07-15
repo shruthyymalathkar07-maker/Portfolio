@@ -189,6 +189,17 @@ export const projects = [
     github: "https://github.com/shruthyymalathkar07-maker/AI-Travel-app",
     demo: "",
   },
+  {
+    title:"Desktop Wellness Reminder",
+    description:"A cute desktop wellness companion that provides friendly reminders to take breaks, stay hydrated, and maintain healthy work habits.",
+    tech:["Electron.js","HTML","CSS","JavaScript"],
+    Features:["Smart wellness reminders",
+    "Hydration and break alerts",
+    "Cute desktop companion interface",
+    "Automatic reminder notifications",
+  ],
+    demo:"",
+  },
 ];
 
 export const certifications = [

@@ -199,7 +199,7 @@ export const projects = [
     "Automatic reminder notifications",
   ],
     github:"",
-    demo:"",
+    demo:"/WhatsApp Video 2026-07-15 at 9.05.32 AM.mp4",
   },
 ];
 

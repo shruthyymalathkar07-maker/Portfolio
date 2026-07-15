@@ -192,12 +192,13 @@ export const projects = [
   {
     title:"Desktop Wellness Reminder",
     description:"A cute desktop wellness companion that provides friendly reminders to take breaks, stay hydrated, and maintain healthy work habits.",
-    tech:["Electron.js","HTML","CSS","JavaScript"],
-    Features:["Smart wellness reminders",
+    tech: ["Electron.js","HTML","CSS","JavaScript"],
+    features: ["Smart wellness reminders",
     "Hydration and break alerts",
     "Cute desktop companion interface",
     "Automatic reminder notifications",
   ],
+    github:"",
     demo:"",
   },
 ];
